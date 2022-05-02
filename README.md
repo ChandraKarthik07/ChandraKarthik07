@@ -35,13 +35,12 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 
-<p> <img src="https://komarev.com/ghpvc/?username=Thrushith&label=Profile%20views&color=e89b17&style=flat" alt="Thrushith" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=ChandraKarthik07&label=Profile%20views&color=e89b17&style=flat" alt="kpck" /> </p><br><br>
 
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thrushith&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=141321" alt="Thrushith" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChandraKarthik07&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=141321" alt="kpck" /></p><br><br>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Thrushith&show_icons=true&theme=dark&locale=en" alt="Thrushith" /></p><br>
+<p>&nbsp;<img width="300"src="https://github-readme-stats.vercel.app/api?username=ChandraKarthik07&show_icons=true&theme=dark&locale=en" alt="kpck" /></p><br>
 
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Thrushith&theme=dark" alt="Thrushith" /></p>
+<p><img align="right" width="300"  src="https://github-readme-streak-stats.herokuapp.com/?user=ChandraKarthik07&theme=dark" alt="kpck" /></p>
