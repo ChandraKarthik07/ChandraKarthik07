@@ -42,5 +42,6 @@ You can click the Preview link to take a look at your changes.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChandraKarthik07&border_radius=30&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=141321" alt="kpck" /></p><br><br>
 
 <p>&nbsp;<img width="300"src="https://github-readme-stats.vercel.app/api?username=ChandraKarthik07&show_icons=true&theme=highcontrast&border_radius=30"theme=dark&locale=en" alt="kpck" /></p><br>
-
-<p><img align="right" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=ChandraKarthik07&border_radius=30&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=141321" alt="kpck" /></p><br><br>
+ 
+ ​
+<p><img align="right" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=ChandraKarthik07&theme=highcontrast&border_radius=30"alt="kpck" /></p><br><br>
