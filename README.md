@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 <i>I’m interested in <b>Machine learning</b> and <b>web development</b></i>
 
-- 🌱 I’m currently learning <b>frontend languages</b> and Machine learning
-- 💞️ Love to learn new stuff and new <b>Softwares</b> regarding <b><i>product-based</i></b>
+- 🌱 I’m currently learning <b>django </b> and Machine learning
+- 💞️ Love to learn new stuff and new <b>technologies</b> regarding <b><i>IOT</i></b>
 - 📫 How to reach me chandrakarthik42@gmail.com
 - 📖 Currently working on <i>Nothing</i>
 - 🕸️ Out of the subject " #Marvel Fan"
