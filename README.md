@@ -25,13 +25,13 @@ Karthik's GitHub Profile README
 
 ### 📞 Connect with me:
 <p align="left">
-  <a href="https://in.linkedin.com/in/chandra-karthik-51849020a" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30" title="Connect with me on LinkedIn" />
+  <a href="https://in.linkedin.com/in/chandra-karthik-51849020a" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" title="Connect with me on LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/chandrakarthik_/?hl=en" target="blank">
+  <a href="https://www.instagram.com/chandrakarthik_/?hl=en" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" width="30" title="Follow me on Instagram" />
   </a>
-  <a href="https://discord.com/channels/@me/970652474656563280" target="blank">
+  <a href="https://discord.com/channels/@me/970652474656563280" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Discord_Logo.svg" alt="Discord" height="30" width="30" title="Chat with me on Discord" />
   </a>
 </p>
