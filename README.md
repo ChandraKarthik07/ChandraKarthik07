@@ -5,7 +5,7 @@ Karthik's GitHub Profile README
   <h1>Hi there, I'm Karthik 😸💤</h1>
 </p>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div style="flex: 1; padding-right: 20px;">
     <ul>
       <li>👀 I’m passionate about <b>Machine Learning</b> and <b>Web Development</b></li>
@@ -16,7 +16,7 @@ Karthik's GitHub Profile README
       <li>🕸️ Fun Fact: I'm a huge <b>Marvel fan</b></li>
     </ul>
   </div>
-  <div>
+  <div style="flex: 0 0 300px;">
     <img alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   </div>
 </div>
@@ -26,13 +26,13 @@ Karthik's GitHub Profile README
 ### 📞 Connect with me:
 <p align="left">
   <a href="https://in.linkedin.com/in/chandra-karthik-51849020a" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/LinkedIn_Logo_2013.svg" alt="LinkedIn" height="30" width="30" title="Connect with me on LinkedIn" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30" title="Connect with me on LinkedIn" />
   </a>
   <a href="https://www.instagram.com/chandrakarthik_/?hl=en" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" alt="Instagram" height="30" width="30" title="Follow me on Instagram" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" width="30" title="Follow me on Instagram" />
   </a>
   <a href="https://discord.com/channels/@me/970652474656563280" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Discord_logo_2023.svg" alt="Discord" height="30" width="30" title="Chat with me on Discord" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Discord_Logo.svg" alt="Discord" height="30" width="30" title="Chat with me on Discord" />
   </a>
 </p>
 
