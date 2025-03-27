@@ -1,19 +1,16 @@
-<!---
-Karthik's GitHub Profile README
---->
 <p align="center">
-  <h1>Hi there, I'm Karthik 😸💤</h1>
+  <h1>Hi there, I'm Karthik 🚀</h1>
 </p>
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div style="flex: 1; padding-right: 20px;">
     <ul>
-      <li>👀 I’m passionate about <b>Machine Learning</b> and <b>Web Development</b></li>
-      <li>🌱 Currently learning <b>Django</b> and exploring more of <b>Machine Learning</b></li>
-      <li>💞️ I love discovering new <b>technologies</b>, especially in the realm of <i>IOT</i></li>
+      <li>👀 Passionate about **AI, Cloud Computing, and Backend Development**</li>
+      <li>💡 Exploring **Scalable System Architectures, DevOps, and Full-Stack Development**</li>
+      <li>💻 Skilled in **Python, Java, SQL, Node.js, Express.js, React, AWS, Docker, Kubernetes, MERN Stack, Django, Flask**</li>
+      <li>📖 Working on exciting **AI-driven applications, cloud-native solutions, and DevOps automation projects**</li>
       <li>📫 Reach me at <a href="mailto:chandrakarthik42@gmail.com">chandrakarthik42@gmail.com</a></li>
-      <li>📖 Currently working on <i>exciting new opportunities</i> and always looking for new projects to dive into!</li>
-      <li>🕸️ Fun Fact: I'm a huge <b>Marvel fan</b></li>
+      <li>🕸️ Fun Fact: I love problem-solving and watching **Marvel movies**! 😄</li>
     </ul>
   </div>
   <div style="flex: 0 0 300px;">
@@ -41,10 +38,12 @@ Karthik's GitHub Profile README
 ### 💻 Languages & Tools:
 <p align="left">
   <a href="https://www.python.org" target="_blank" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" title="C Programming"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.java.com/" target="_blank" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://expressjs.com/" target="_blank" title="Express.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 </p>
 
 <br>
